@@ -1,7 +1,5 @@
 # Watersort
 
-![Watersort Logo](/path/to/logo.png)
-
 ## Introduction
 
 Watersort is a Java program that implements the water sort puzzle using stacks. It was one of my first projects where I applied higher-level thinking to build something that other people can play as well. The program allows users to solve the water sort puzzle by arranging colors in a specific order using stacks although everything is text based.
